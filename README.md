@@ -3,6 +3,7 @@ Code used for data analysis in the paper [Subcellular mRNA localization patterns
 ## HiVis:
 - [The HiVis repo](https://github.com/roynov01/HiVis)
 - [Documentation](https://hivis.readthedocs.io/latest/)
+- [Video tutorial](https://www.youtube.com/watch?v=1JsKYBZnvO0&list=PLfVzHGwTI-Mnydm1EUxPpPv_VTJGjxLtp)
 - [Pypi](https://pypi.org/project/HiVis/)
 
 ## Citation: 
