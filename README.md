@@ -1,4 +1,4 @@
-Code used for data analysis in the paper [Subcellular mRNA localization patterns across tissues resolved with spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2025.09.07.674688v3).
+Code used for data analysis in the paper [Subcellular mRNA localization patterns across tissues resolved with spatial transcriptomics](https://www.nature.com/articles/s41467-026-72156-7).
 
 ## HiVis:
 - [The HiVis repo](https://github.com/roynov01/HiVis)
@@ -10,5 +10,5 @@ Code used for data analysis in the paper [Subcellular mRNA localization patterns
 
 Subcellular mRNA localization patterns across tissues resolved with spatial transcriptomics
 Roy Novoselsky, Ofra Golani, Tal Barkai, Merav Kedmi, Inna Goliand, Michal Fine, Ilan Kent, Ido Nachmany, Shalev Itzkovitz.
-bioRxiv 2025.09.07.674688; doi: https://doi.org/10.1101/2025.09.07.674688
+Nature Communications, 2026.
 
